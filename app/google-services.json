@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "628900453853",
+    "project_id": "cloud3-8b2e4",
+    "storage_bucket": "cloud3-8b2e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628900453853:android:d5d10a8feacb01e1c56a34",
+        "android_client_info": {
+          "package_name": "com.myazji.cloud3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628900453853-bnqi5fjvdhct481c2r2ebveijdr2kv35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHZ_33zMJpKjr54BiA9sYQrhJbynH0rIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628900453853-bnqi5fjvdhct481c2r2ebveijdr2kv35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
